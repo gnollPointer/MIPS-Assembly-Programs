@@ -1,6 +1,3 @@
-# Chapter 13, Program 5
-# Michael A. Dougherty II
-#
 # This program calculates the two's complement of a number. 
 # 
 # Registers:
