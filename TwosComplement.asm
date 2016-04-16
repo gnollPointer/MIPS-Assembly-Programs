@@ -18,7 +18,7 @@ main:
 	subu $11, $0, $10	# -13x
 	
 	# An alternative method
-	# nor $11, $0, $10	#Flip the bits
+	# nor $11, $0, $10	# Flip the bits
 	# addiu $11, $11, 0x1	# Add one, result: -13x (two's comp.)	
 
 	
